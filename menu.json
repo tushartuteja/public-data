@@ -1,0 +1,61 @@
+{
+    "vegeterian": {
+        "breakfast": [
+            "Aloo Parantha",
+            "Poha",
+            "Tomato and Cheese Sandwich",
+            "Gobhi Parantha",
+            "Aloo Sandwich",
+            "Tomato and Cucumber Sandwiches",
+            "Paneer Sandwich",
+            "Bread Jam",
+            "Bread Butter",
+            "Peanut Butter and Bread"
+        ],
+        "lunch": [
+            "Bhindi and Roti",
+            "Kadhi Chawal",
+            "Rajma Chawal",
+            "Chole Chawal",
+            "Aloo beans and Roti",
+            "Daal Chawal",
+            "Aloo Matar",
+            "Matar Paneer",
+            "Pav Bhaji",
+            "Karele",
+            "Loki ke Kofte",
+            "Loki ki Sabzi",
+            "Tourai ki Sabzi"
+        ],
+        "dinner": [
+            "Daal Chawal",
+            "Curd Rice",
+            "Aloo Matar",
+            "Matar Paneer",
+            "Pav Bhaji"
+        ]
+    },
+    "nonvegeterian": {
+        "breakfast": [
+            "Chicken Salami Sanwich",
+            "Omelette",
+            "Boiled Eggs"
+        ],
+        "lunch": [
+            "Chicken Curry",
+            "Chicken Biryani",
+            "Mutton Curry",
+            "Mutton Biryani",
+            "Egg Curry",
+            "Fish Curry"
+        ],
+        "dinner": [
+            "Chicken Curry",
+            "Chicken Biryani",
+            "Mutton Curry",
+            "Mutton Biryani",
+            "Egg Curry",
+            "Fish Curry"
+        ]
+    }
+}
